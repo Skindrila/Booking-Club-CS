@@ -132,12 +132,7 @@
 						
 							<div class="form-group">
                     			<div class="col-xs-12 col-sm-12 col-md-12 control">
-                        			<div style="border-top: 1px solid#888; padding-top:15px; font-size:85%" >
-                            				Don't have an account?
-	                            			<a href="${pageContext.request.contextPath}/register-user">
-	                            			Sign Up Here
-                             				</a>
-                             		</div>
+
                     			</div>
                 			</div>   
 						
